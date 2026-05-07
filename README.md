@@ -1,4 +1,4 @@
-# Electoral Stability Analysis: FPTP vs PR
+# Electoral Stability Analysis: FPTP vs PR (Data Science Project)
 
 This repository contains the code and data for the paper:  
 **"A Machine Learning Based Analysis of Electoral Stability using Historical Election Data"**  
